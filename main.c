@@ -1,8 +1,8 @@
 //#############################################################################
 //
-// ARQUIVO:    main.c
+// ARQUIVO:    adc_sim.c
 //
-// TÍTULO:    Amostragem e Filtragem de um Canal ADC (versão simplificada)
+// TÍTULO:    Amostragem e Filtragem de um Canal ADC
 //
 //! Este exemplo simula a aquisição de um único canal ADC.
 //! Utiliza STRUCT para organizar os dados do canal,
