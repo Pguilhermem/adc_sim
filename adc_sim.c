@@ -26,7 +26,7 @@
 #include "device.h"
 #include <stdbool.h> // Para tipo bool
 
-// --- Definições Globais ---
+// --- Definições Globais --
 #define ADC_MAX_VALUE           4095U   // Valor máximo para ADC de 12 bits
 #define ADC_REFERENCE_VOLTAGE   3.3F    // Tensão de referência do ADC
 
